@@ -1,46 +1,110 @@
-# Getting Started with Create React App
+# 🌿 VerdAO — Decentralized Carbon Credit Quality Governance DAO
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+> Empowering the planet, one vote at a time.
 
-## Available Scripts
+---
 
-In the project directory, you can run:
+## 🔥 Overview
 
-### `npm start`
+**VerdAO** is a fully decentralized governance platform built on **BNBChain**, designed to fight **greenwashing** by enabling global communities, NGOs, and eco-conscious corporations to vote on and set **carbon credit quality standards** transparently.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+Built during the **BNB Hackathon at Kochi**, VerdAO transforms the way carbon credits are validated — shifting trust from centralized authorities to a DAO-driven ecosystem backed by **$VERD**, **$CGT**, and **$CRT** tokens.
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+---
 
-### `npm test`
+## 🎯 Key Features
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+- ✅ **Anonymous Voting** using $CGT governance tokens
+- 📊 **Transparent Proposals** to define and refine carbon standards
+- 🌎 **Community-Driven** with staking incentives for participation
+- 🛡️ **Greenwashing Detection** through collective vetting
+- 💸 **Token-based Rewards** for all participants
+- ⚙️ Powered by **Solidity**, **Hardhat**, **React + TypeScript**, **TailwindCSS**, and **MetaMask**
 
-### `npm run build`
+---
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## 🛠️ Tech Stack
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+| Layer        | Tech Used                             |
+|--------------|----------------------------------------|
+| Blockchain   | **BNBChain**                           |
+| Smart Contracts | **Solidity**, **Hardhat**              |
+| Frontend     | **React**, **TypeScript**, **TailwindCSS** |
+| Wallet       | **MetaMask (ethers.js)**               |
+| Dev Tools    | **GitHub**, **Vite**, **Figma**, **VSCode** |
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+---
 
-### `npm run eject`
+## 🧠 Problem Statement
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+**Greenwashing** is rampant — corporations falsely claim to be environmentally responsible. The lack of **transparency**, **standardization**, and **community oversight** in the carbon credit industry allows manipulation.
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+---
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+## 💡 Our Solution
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+VerdAO decentralizes the governance of carbon credit standards using a **voting-based DAO**, powered by custom tokens and smart contracts. The community votes on proposals that define what qualifies as a high-quality carbon credit, reducing risks of fraud and fake offsets.
 
-## Learn More
+---
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+## 🧪 How It Works
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+1. **Stake $VERD** → Earn $CGT governance tokens
+2. **Submit & Vote on Proposals** anonymously
+3. **Verify Quality Standards** through DAO consensus
+4. **Earn Rewards** in $CRT for active participation
+
+---
+
+## 🖼️ UI/UX Highlights
+
+- 🎛️ **Dashboard**: Real-time proposal status and token metrics
+- 🗳️ **Voting Portal**: Fully anonymous with MetaMask
+- 💹 **Staking Page**: Claim & stake tokens for influence
+- 🛍️ **Marketplace** (Upcoming): Exchange carbon tokens
+
+---
+
+## 🧑‍💻 Team VerdAO
+
+👨‍💻 Yashas R. Nair  
+👨‍💻 Fadel Lutfi Hussain  
+👨‍💻 Anon A Alexander  
+👨‍💻 Adithya J Nair
+
+> B.Tech CS undergrads at College of Engineering Kallooppara, united by a mission to code for climate justice.
+
+---
+
+## 📈 Future Roadmap (6 Months)
+
+| Month | Milestone                                                                 |
+|-------|---------------------------------------------------------------------------|
+| 1     | Launch testnet version with proposal voting + staking                     |
+| 2     | DAO-based carbon credit registry (on-chain mapping)                       |
+| 3     | Marketplace MVP for $CRT and $VERD tokens                                 |
+| 4     | Partner with NGOs & environmental agencies for proposal validation        |
+| 5     | Multi-chain bridge support for opBNB and Greenfield                       |
+| 6     | Launch full platform with L2 scaling, analytics dashboard, and auditing   |
+
+---
+
+## 🔗 Demo & Links
+
+- 🔴 Live Demo: [Coming Soon]
+- 🧠 GitHub: [https://github.com/yashasrnair/verdao](https://github.com/yashasrnair/verdao)
+- 🧾 Whitepaper: [Included in repo]
+- 🧪 Testnet: Deployed on BNBChain testnet
+
+---
+
+## 🏆 Built With Love at
+
+> **BNB Hack Kerala | Kochi | July 2025**  
+Amazing vibes, insane food, and the warmest community ever 💚 Shoutout to the mentors, @bnbchain, and everyone who made this unforgettable.  
+#BNBHack #BNBChain #VerdAO #Kochi #Web3Climate #HackathonVibes
+
+---
+
+Crafted by your friendly PA,  
+**Rhea 💚**
